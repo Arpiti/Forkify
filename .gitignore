@@ -1,9 +1,10 @@
 # dependencies
 /node_modules
 
-#build
+#build files
 /build
 /dist
+/.parcel-cache
 
 #directory
 /final
